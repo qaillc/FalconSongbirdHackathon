@@ -1,0 +1,14 @@
+streamlit
+ai71
+python-dotenv
+pymupdf
+frontend
+tools
+docx
+python-docx
+streamlit_navigation_bar
+langchain
+requests
+beautifulsoup4
+pandas
+chardet
